@@ -30,3 +30,6 @@ a:link {
   table{
     border: solid black
   }
+  span {
+    display: block;
+  }
