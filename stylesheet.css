@@ -27,3 +27,6 @@ a:link {
   a:active {
     background-color: pink;
   } 
+  table{
+    border: solid black
+  }
