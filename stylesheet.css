@@ -2,5 +2,12 @@ h1 {
     color: red;
 }
 h3{
-    border-style: solid
+    border-style: solid;
+    border-color: green;
+}
+div{
+    width: 300px;
+    border: 15px solid blue;
+    padding: 20px;
+    margin: 50px;
 }
