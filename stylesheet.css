@@ -1,5 +1,6 @@
 h1 {
     color: red;
+    text-shadow: 2px 2px 5px black;
 }
 h3{
     border-style: solid;
