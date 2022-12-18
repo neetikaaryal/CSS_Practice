@@ -28,8 +28,14 @@ a:link {
     background-color: pink;
   } 
   table{
-    border: solid black
+    border: solid black;
   }
   span {
     display: block;
   }
+img{
+    z-index: -1;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
