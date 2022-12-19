@@ -46,3 +46,12 @@ img{
     /* border: 1px solid black; */
     overflow: auto;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline;
+  }
